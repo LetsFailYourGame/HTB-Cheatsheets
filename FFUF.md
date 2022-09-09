@@ -4,7 +4,7 @@
 * Best to enumerate file extension first
 
 ```bash
-ffuf -u http://<domain>/FUZZ -e .php -w /root/toolkit/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt:FUZZ -c -recursion -recursion-depth 1
+ffuf -u http://<domain>/FUZZ -e .php -w <wordlist>:FUZZ -c -recursion -recursion-depth 1
 ```
 
 ### Subdomains
@@ -12,7 +12,7 @@ ffuf -u http://<domain>/FUZZ -e .php -w /root/toolkit/wordlists/SecLists/Discove
 * When found add to /etc/hosts
 
 ```bash
-ffuf -u http://<domain>/ -w /root/toolkit/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt:FUZZ -c -H 'Host: FUZZ.<domain>'
+ffuf -u http://<domain>/ -w <wordlist>:FUZZ -c -H 'Host: FUZZ.<domain>'
 ```
 
 ### Filter
@@ -34,7 +34,7 @@ FILTER OPTIONS:
   -fw              Filter by amount of words in response. Comma separated list of word counts and ranges
 ```
 
-### Finding parameters
+### Finding GET / POST parameters
 * Filter for wrong response size with -fs
 * Try POST and GET both sometimes deliver different results
 * Use curl to check the response
