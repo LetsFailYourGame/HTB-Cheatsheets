@@ -5,6 +5,9 @@
     "nmap",
     "Gobuster",
     "Whatweb",
-    "Metasploit"
-  ]
+    "Metasploit",
+    "netcat",
+    "Shell"
+  ],
+  "promptDelete": false
 }

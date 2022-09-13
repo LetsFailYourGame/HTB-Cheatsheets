@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Started/Pentest_basics/7_Types_of_Shells_INFO.md",
+            "file": "Getting Started/Pentest_basics/7_Reverse_Shells_INFO.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Pentest_basics/7_Types_of_Shells_INFO.md",
+                "file": "Getting Started/Pentest_basics/7_Reverse_Shells_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/Pentest_basics/7_Types_of_Shells_INFO.md",
+                "file": "Getting Started/Pentest_basics/7_Reverse_Shells_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Pentest_basics/7_Types_of_Shells_INFO.md"
+                "file": "Getting Started/Pentest_basics/7_Reverse_Shells_INFO.md"
               }
             }
           },
@@ -139,15 +140,15 @@
   },
   "active": "fd1d5635cf775b93",
   "lastOpenFiles": [
+    "Getting Started/HTB Academy Student Transcript.pdf",
+    "Getting Started/Pentest_basics/7_Reverse_Shells_INFO.md",
     "Getting Started/Pentest_basics/6_Public_Exploits_INFO.md",
-    "Getting Started/Pentest_basics/5_Web_Emumeration_INFO.md",
-    "Getting Started/5_Web_Emumeration_INFO.md",
     "FFUF/FFUF_INFO.md",
     "FFUF/FFUF_CLI.md",
-    "2022-09-13.md",
+    "Getting Started/Pentest_basics/2_Common_Terms_INFO.md",
+    "Getting Started/Pentest_basics/5_Web_Emumeration_INFO.md",
     "Getting Started/Basic_Tools_CLI.md",
-    "Getting Started/1_Infosec_Overview_INFO.md",
-    "Getting Started/2_Common_Terms_INFO.md",
-    "Getting Started/4_Service_Scanning_INFO.md"
+    "Untitled.md",
+    "Getting Started/5_Web_Emumeration_INFO.md"
   ]
 }
