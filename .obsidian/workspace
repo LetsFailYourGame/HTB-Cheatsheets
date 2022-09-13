@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Started/4_Service_Scanning_INFO.md",
+            "file": "Getting Started/Basic_Tools_CLI.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/4_Service_Scanning_INFO.md",
+                "file": "Getting Started/Basic_Tools_CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/4_Service_Scanning_INFO.md",
+                "file": "Getting Started/Basic_Tools_CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/4_Service_Scanning_INFO.md"
+                "file": "Getting Started/Basic_Tools_CLI.md"
               }
             }
           }
@@ -131,14 +130,15 @@
   },
   "active": "fd1d5635cf775b93",
   "lastOpenFiles": [
+    "Getting Started/1_Infosec_Overview_INFO.md",
+    "Getting Started/2_Common_Terms_INFO.md",
+    "Getting Started/4_Service_Scanning_INFO.md",
     "Getting Started/Service_Scanning_INFO.md",
     "Getting Started/Infosec_Overview_INFO.md",
     "Getting Started/Common_Terms_INFO.md",
     "Getting Started/Basic_Tools_CLI.md",
     "Getting Started/Basic Tools_INFO.md",
     "Getting Started/Service Scanning.md",
-    "Getting Started/Basic Tools.md",
-    "Getting Started/Common_Terms.md",
-    "Getting Started/Infosec_Overview.md"
+    "Getting Started/Basic Tools.md"
   ]
 }

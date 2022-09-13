@@ -1,9 +1,9 @@
 ### Shell types
-| Shell Type    | Description                                                                                                                                                                                                                                       |     |     |     |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- | --- |
-| Reverse shell | Initiates a connection back to a "listener" on our attack box.                                                                                                                                                                                    |     |     |     |
-| Bind shell    | "Binds" to a specific port on the target host and waits for a connection from our attack box.                                                                                                                                                     |     |     |     |
-| Web shell     | Runs operating system commands via the web browser, typically not interactive or semi-interactive. It can also be used to run single commands (i.e., leveraging a file upload vulnerability and uploading a `PHP` script to run a single command. |     |     |     |
+| Shell Type    | Description                                                                                                                                                                                                                                       |    
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| Reverse shell | Initiates a connection back to a "listener" on our attack box.                                                                                                                                                                                    |     |
+| Bind shell    | "Binds" to a specific port on the target host and waits for a connection from our attack box.                                                                                                                                                     |     |
+| Web shell     | Runs operating system commands via the web browser, typically not interactive or semi-interactive. It can also be used to run single commands (i.e., leveraging a file upload vulnerability and uploading a `PHP` script to run a single command.      |
 
 ### What is a Port?
 * Like a window or door on a house 
@@ -42,4 +42,3 @@
 * Handles all HTTP traffic from client-side browser → server
 * If suffering from vulnerabilities back-end server can be compromised 
 * Top 10 OWASP vulnerabilities
-	* ![[Pasted image 20220913171642.png]]
