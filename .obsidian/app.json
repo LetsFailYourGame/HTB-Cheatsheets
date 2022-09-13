@@ -2,6 +2,9 @@
   "spellcheckDictionary": [
     "Netcat",
     "Nmap",
-    "nmap"
+    "nmap",
+    "Gobuster",
+    "Whatweb",
+    "Metasploit"
   ]
 }

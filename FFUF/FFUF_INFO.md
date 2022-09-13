@@ -4,11 +4,11 @@
 * Best to enumerate file extension first
 
 ```bash
-ffuf -u http://<domain>/FUZZ -e .php -w <wordlist>:FUZZ -c -recursion -recursion-depth 1
+ffuf -w <wordlist>:FUZZ -u http://SERVER_IP:PORT/indexFUZZ
 ```
 
 ### Subdomains
-* Make use of VHosts to discover local / not public subdomains by providing a header -H which is beeing fuzzed
+* Make use of VHosts to discover local / not public subdomains by providing a header -H which is being fuzzed
 * When found add to /etc/hosts
 
 ```bash

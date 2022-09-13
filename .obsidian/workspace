@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Started/Basic_Tools_CLI.md",
+            "file": "Getting Started/Pentest_basics/7_Types_of_Shells_INFO.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Basic_Tools_CLI.md",
+                "file": "Getting Started/Pentest_basics/7_Types_of_Shells_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/Basic_Tools_CLI.md",
+                "file": "Getting Started/Pentest_basics/7_Types_of_Shells_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,11 +117,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Basic_Tools_CLI.md"
+                "file": "Getting Started/Pentest_basics/7_Types_of_Shells_INFO.md"
               }
             }
+          },
+          {
+            "id": "99c64d69dd2e7ed3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -130,15 +139,15 @@
   },
   "active": "fd1d5635cf775b93",
   "lastOpenFiles": [
+    "Getting Started/Pentest_basics/6_Public_Exploits_INFO.md",
+    "Getting Started/Pentest_basics/5_Web_Emumeration_INFO.md",
+    "Getting Started/5_Web_Emumeration_INFO.md",
+    "FFUF/FFUF_INFO.md",
+    "FFUF/FFUF_CLI.md",
+    "2022-09-13.md",
+    "Getting Started/Basic_Tools_CLI.md",
     "Getting Started/1_Infosec_Overview_INFO.md",
     "Getting Started/2_Common_Terms_INFO.md",
-    "Getting Started/4_Service_Scanning_INFO.md",
-    "Getting Started/Service_Scanning_INFO.md",
-    "Getting Started/Infosec_Overview_INFO.md",
-    "Getting Started/Common_Terms_INFO.md",
-    "Getting Started/Basic_Tools_CLI.md",
-    "Getting Started/Basic Tools_INFO.md",
-    "Getting Started/Service Scanning.md",
-    "Getting Started/Basic Tools.md"
+    "Getting Started/4_Service_Scanning_INFO.md"
   ]
 }
