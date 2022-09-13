@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e21d2f41378f8b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd1d5635cf775b93",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Getting Started/4_Service_Scanning_INFO.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d77a5b4a40cf6c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bd4a4c6b9d37895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "104cab7630c7de91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2c086e8682f95f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93fecf51945908b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fe489263b4b226cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5a5599bfa732ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a642725ac11b6151",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Getting Started/4_Service_Scanning_INFO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b33a850c201646",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Getting Started/4_Service_Scanning_INFO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0bd954e623918b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8e19834a33af718",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Getting Started/4_Service_Scanning_INFO.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fd1d5635cf775b93",
+  "lastOpenFiles": [
+    "Getting Started/Service_Scanning_INFO.md",
+    "Getting Started/Infosec_Overview_INFO.md",
+    "Getting Started/Common_Terms_INFO.md",
+    "Getting Started/Basic_Tools_CLI.md",
+    "Getting Started/Basic Tools_INFO.md",
+    "Getting Started/Service Scanning.md",
+    "Getting Started/Basic Tools.md",
+    "Getting Started/Common_Terms.md",
+    "Getting Started/Infosec_Overview.md"
+  ]
+}
