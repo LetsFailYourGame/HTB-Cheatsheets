@@ -7,7 +7,10 @@
     "Whatweb",
     "Metasploit",
     "netcat",
-    "Shell"
+    "Shell",
+    "Cron",
+    "bash_history",
+    "PSReadLine"
   ],
   "promptDelete": false
 }
