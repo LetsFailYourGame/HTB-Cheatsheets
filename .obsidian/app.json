@@ -10,7 +10,9 @@
     "Shell",
     "Cron",
     "bash_history",
-    "PSReadLine"
+    "PSReadLine",
+    "meterpreter",
+    "wget"
   ],
   "promptDelete": false
 }
