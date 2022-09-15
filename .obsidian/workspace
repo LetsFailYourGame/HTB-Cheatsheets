@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -139,15 +139,15 @@
   },
   "active": "fd1d5635cf775b93",
   "lastOpenFiles": [
+    "README.md",
+    "NMAP/NMAP_CLI.md",
+    "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md",
     "NMAP/Host Enumeration/3_Saving_the_Result_INFO.md",
     "NMAP/Host Enumeration/1_Host_Discovery_INFO.md",
     "NMAP/Host Enumeration/2_Host_and_Port_Scanning_INFO.md",
     "Getting Started/Pentest_basics/2_Common_Terms_INFO.md",
     "Getting Started/Basic_Tools_CLI.md",
     "Getting Started/Pentest_basics/8_Privilege_Escalation_INFO.md",
-    "Getting Started/Pentest_basics/9_Transferring_Files_INFO.md",
-    "Getting Started/Pentest_basics/7_Reverse_Shells_INFO.md",
-    "Getting Started/Pentest_basics/1_Infosec_Overview_INFO.md",
-    "Getting Started/Pentest_basics/3_Basic Tools_INFO.md"
+    "Getting Started/Pentest_basics/9_Transferring_Files_INFO.md"
   ]
 }
