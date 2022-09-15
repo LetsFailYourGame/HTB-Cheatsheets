@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Started/Pentest_basics/9_Transferring_Files_INFO.md",
+            "file": "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Pentest_basics/9_Transferring_Files_INFO.md",
+                "file": "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Getting Started/Pentest_basics/9_Transferring_Files_INFO.md",
+                "file": "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Getting Started/Pentest_basics/9_Transferring_Files_INFO.md"
+                "file": "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md"
               }
             }
           },
@@ -138,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "104cab7630c7de91",
+  "active": "fd1d5635cf775b93",
   "lastOpenFiles": [
+    "NMAP/Host Enumeration/3_Saving_the_Result_INFO.md",
+    "NMAP/Host Enumeration/1_Host_Discovery_INFO.md",
+    "NMAP/Host Enumeration/2_Host_and_Port_Scanning_INFO.md",
+    "Getting Started/Pentest_basics/2_Common_Terms_INFO.md",
+    "Getting Started/Basic_Tools_CLI.md",
     "Getting Started/Pentest_basics/8_Privilege_Escalation_INFO.md",
     "Getting Started/Pentest_basics/9_Transferring_Files_INFO.md",
     "Getting Started/Pentest_basics/7_Reverse_Shells_INFO.md",
     "Getting Started/Pentest_basics/1_Infosec_Overview_INFO.md",
-    "Getting Started/Pentest_basics/2_Common_Terms_INFO.md",
-    "Getting Started/Pentest_basics/3_Basic Tools_INFO.md",
-    "Getting Started/Pentest_basics/4_Service_Scanning_INFO.md",
-    "Getting Started/Pentest_basics/5_Web_Emumeration_INFO.md",
-    "Getting Started/Pentest_basics/6_Public_Exploits_INFO.md",
-    "Getting Started/Basic_Tools_CLI.md"
+    "Getting Started/Pentest_basics/3_Basic Tools_INFO.md"
   ]
 }

@@ -12,7 +12,11 @@
     "bash_history",
     "PSReadLine",
     "meterpreter",
-    "wget"
+    "wget",
+    "NMAP",
+    " NMA",
+    "datagram",
+    "Grepable"
   ],
   "promptDelete": false
 }
