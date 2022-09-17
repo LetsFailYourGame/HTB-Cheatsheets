@@ -16,7 +16,10 @@
     "NMAP",
     " NMA",
     "datagram",
-    "Grepable"
+    "Grepable",
+    "NSE",
+    "Proto",
+    "Proxying"
   ],
   "promptDelete": false
 }
