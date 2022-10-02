@@ -28,5 +28,6 @@
     "rpcclient",
     "RIDs"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
