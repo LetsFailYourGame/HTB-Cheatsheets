@@ -43,11 +43,12 @@ Desired Skills/Knowledge/ Experience:
 	* We eventually come across the following [repository](https://github.com/boomcamp/django-security) that describes OWASP Top10 for Django
 * We can then check for these mistakes in the OpenSource project of the company
 
-![[Screenshot 2022-10-02 081809.png]]
-![[Screenshot 2022-10-02 081822.png]]
+![](Screenshot%202022-10-02%20081809.png)
+![](Screenshot%202022-10-02%20081822.png)
 
 ### LinkedIn - Employee #2 Career
- ![[Screenshot 2022-10-02 081934.png]]
+ ![](Screenshot%202022-10-02%20081934.png)
+
 * [LinkedIn](https://www.linkedin.com/) offers a comprehensive search for employed, sorted by connections, locations, companies, school, industry, profile language, services, names, titles, and more
 * Understandably, the more detailed information we provide there, the fewer results we get
 * Suppose we are trying to find the infrastructure and technology the company is most likely to use
