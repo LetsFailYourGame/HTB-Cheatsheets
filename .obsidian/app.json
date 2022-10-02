@@ -19,7 +19,9 @@
     "Grepable",
     "NSE",
     "Proto",
-    "Proxying"
+    "Proxying",
+    "vsFTP",
+    "Footprinting"
   ],
   "promptDelete": false
 }
