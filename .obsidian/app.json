@@ -21,7 +21,12 @@
     "Proto",
     "Proxying",
     "vsFTP",
-    "Footprinting"
+    "Footprinting",
+    "machine ",
+    "Rpcclient",
+    "Rpcclient",
+    "rpcclient",
+    "RIDs"
   ],
   "promptDelete": false
 }

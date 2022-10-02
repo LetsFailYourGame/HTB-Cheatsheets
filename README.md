@@ -1,11 +1,9 @@
 # Useful Commands (General)
-| **Command**                          | **Description**                                |
-| ------------------------------------ | ---------------------------------------------- |
-| `locate <path>`                      | Find files in any directory                    |
-| `ssh-keygen -t rsa`                  | Generate key pair (SSH)                        |
-| `which <programm_name>`              | Finds the path to a given program if it exists |
-
-
+| **Command**             | **Description**                                |
+| ----------------------- | ---------------------------------------------- |
+| `locate <path>`         | Find files in any directory                    |
+| `ssh-keygen -t rsa`     | Generate key pair (SSH)                        |
+| `which <programm_name>` | Finds the path to a given program if it exists | 
 
 # Useful Commands (NMAP)
 | Command                                            | Description                                              |
@@ -15,7 +13,11 @@
 | `nmap --source-port <port>`                        | Can bypass miss configured firewalls by imitating a port |
 | `xsltproc <xml_file> -o <html_file>`               | Export nmap scan to HTML file                            |
 
-
-
+# Useful Commands (Services)
+| Command              | Description             |
+| -------------------- | ----------------------- |
+| `nc -nv <ip> <port>` | Interact with a service |
+| `telnet <ip> <port>` | Interact with a service |
+| `ftp <ip>`           | Check anonymous login   | 
 
 

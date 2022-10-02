@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metasploit/Metasploit_Framework_CLI.md",
+            "file": "Footprinting/Host_Based_Enumeration/3_NFS_INFO.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metasploit/Metasploit_Framework_CLI.md",
+                "file": "Footprinting/Host_Based_Enumeration/3_NFS_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metasploit/Metasploit_Framework_CLI.md",
+                "file": "Footprinting/Host_Based_Enumeration/3_NFS_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metasploit/Metasploit_Framework_CLI.md"
+                "file": "Footprinting/Host_Based_Enumeration/3_NFS_INFO.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "104cab7630c7de91",
+  "active": "91d534b4e2b2ceeb",
   "lastOpenFiles": [
     "Footprinting/Host_Based_Enumeration/2_SMB_INFO.md",
+    "Footprinting/Host_Based_Enumeration/Screenshot 2022-10-02 113934.png",
+    "README.md",
     "Footprinting/Host_Based_Enumeration/1_FTP_INFO.md",
+    "Metasploit/Metasploit_Framework_CLI.md",
     "Getting Started/Pentest_basics/5_Web_Emumeration_INFO.md",
     "Footprinting/enum-process.png",
     "Footprinting/Infrastructure_Based_Enumeration/3_Staff_INFO.md",
     "Footprinting/Infrastructure_Based_Enumeration/Screenshot 2022-10-02 081809.png",
-    "Footprinting/Infrastructure_Based_Enumeration/2_Cloud_Resources_INFO.md",
-    "Footprinting/Infrastructure_Based_Enumeration/Screenshot 2022-10-02 081822.png",
-    "Footprinting/Infrastructure_Based_Enumeration/1_Domain_Information_INFO.md",
-    "Footprinting/Footprinting_CLI.md"
+    "Footprinting/Infrastructure_Based_Enumeration/2_Cloud_Resources_INFO.md"
   ]
 }
