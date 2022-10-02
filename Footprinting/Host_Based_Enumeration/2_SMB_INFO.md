@@ -15,7 +15,7 @@
 	* CIFS uses TCP port `445` only
 * Many versions of SMB, including outdated versions that are still used
 
-![[Screenshot_2022-10-02_192009.png]]
+![](Screenshot_2022-10-02_192009.png)
 
 * With version 3, the Samba server gained the ability to be a full member of an Active Directory domain
 * With version 4, Samba even provides an Active Directory domain controller
@@ -75,10 +75,10 @@ $ cat /etc/samba/smb.conf | grep -v "#\|\;"
 * Global settings will be applied to all shares
 * The individual shares can however overwrite these settings
 
-![[Screenshot_2022-10-02_192900.png]]
+![](Screenshot_2022-10-02_192900.png)
 
 ### Dangerous Settings 
-![[Screenshot_2022-10-02_193255.png]]
+![](Screenshot_2022-10-02_193255.png)
 
 * Let's create an example share with the following settings for demonstration
 
@@ -242,7 +242,7 @@ rpcclient $>
 *  `rpcclient` offers many requests with which we can execute specific functions on the SMB server to get information
 * A Complete list of all these functions can be found on the [man page](https://www.samba.org/samba/docs/current/man-html/rpcclient.1.html)
 
-![[Screenshot_2022-10-02_194447.png]]
+![](Screenshot_2022-10-02_194447.png)
 
 ### RPCclient - Enumeration
 ```sh
