@@ -26,7 +26,11 @@
     "Rpcclient",
     "Rpcclient",
     "rpcclient",
-    "RIDs"
+    "RIDs",
+    "ExportFS",
+    "footprinting",
+    "UIDs",
+    "UIDs"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
