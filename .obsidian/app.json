@@ -32,7 +32,13 @@
     "UIDs",
     "UIDs",
     "servers",
-    "conf"
+    "conf",
+    "ESMTP",
+    "SMPT-Auth",
+    " SMPT-Aut",
+    " ESMT",
+    "SE ",
+    "mtp-open-relay]"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
