@@ -30,7 +30,9 @@
     "ExportFS",
     "footprinting",
     "UIDs",
-    "UIDs"
+    "UIDs",
+    "servers",
+    "conf"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
