@@ -14,7 +14,7 @@
 	* Most common authentication is via UNIX `UID / GID` and `group memberships`
 	* Should only be used in trusted networks
 
-![](Screenshot_2022-10-03_153514.png)
+![](./Screenshots/Screenshot_2022-10-03_153514.png)
 
 ### Default Configuration
 * `/etc/exports` contains a table of physical filesystems on an NFS server accessible by clients
@@ -38,7 +38,7 @@ $ cat /etc/exports
 * First the folder is specified which makes it available to others, and then the rights they will have on this NFS share are connected to a host or a subnet
 * Additional options can be added to the hosts or subnets
 
-![](Screenshot_2022-10-03_154439.png)
+![](./Screenshots/Screenshot_2022-10-03_154439.png)
 
 ### ExportFS
 ```sh
@@ -53,7 +53,7 @@ root@nfs:~# exportfs
 * Clients in the subnet can mount the folder and inspect the contents inside 
 
 ### Dangerous Settings 
-![](Screenshot_2022-10-03_154742.png)
+![](./Screenshots/Screenshot_2022-10-03_154742.png)
 
 * For example, the `insecure` option allows users to use ports above 1024
 * The first 1024 ports can only be used by root

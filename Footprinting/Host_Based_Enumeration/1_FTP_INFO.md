@@ -19,13 +19,13 @@ $ sudo apt install vsftpd
 $ cat /etc/vsftpd.conf | grep -v "#"
 ```
 
-![[Screenshot_2022-10-02_113934.png]]
+![](./Screenshots/Screenshot_2022-10-02_113934.png)
 
 ### Dangerous Settings
 * `Anonymous user`
 	* Allow everyone on the internal network to share files and data without accessing each other's computers
 
-![[Screenshot_2022-10-02_114140.png]]
+![](./Screenshots/Screenshot_2022-10-02_114140.png)
 
 * As soon as we connect to the vsFTPd server, the `response code 220` is displayed with the banner of the FTP server
 
@@ -101,7 +101,7 @@ drwxrwxr-x    2 1002     1002         4096 Sep 14 16:50 Employees
 226 Directory send OK.
 ```
 
-![[Screenshot_2022-10-02_114530.png]]
+![](./Screenshots/Screenshot_2022-10-02_114530.png)
 
 * In the following example, we can see that if the `hide_ids=YES` setting is present, the UID and GUID representation of the service will be overwritten, making it more difficult for us to identify with which rights these files are written and uploaded
 * This setting is a security feature to prevent local usernames from being revealed

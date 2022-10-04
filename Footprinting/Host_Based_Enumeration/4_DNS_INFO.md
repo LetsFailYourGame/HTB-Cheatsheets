@@ -4,7 +4,7 @@
 	* Does not have a central database
 * Several types of DNS servers that are used worldwide
 
- ![](Screenshot_2022-10-03_161330.png)
+ ![](./Screenshots/Screenshot_2022-10-03_161330.png)
 
 * Mainly unencrypted
 * But encryption exists 
@@ -15,8 +15,8 @@
 	* Which computer servers as the e-mail server
 	* What the domain's name servers are called
 
-![](Screenshot_2022-10-03_161714.png)
- ![](Screenshot_2022-10-03_161946.png)
+![](./Screenshots/Screenshot_2022-10-03_161714.png)
+ ![](./Screenshots/Screenshot_2022-10-03_161946.png)
 
 ### Default Configuration 
 * Many configuration types
@@ -131,7 +131,7 @@ $TTL 86400
 ```
 
 ### Dangerous Settings
-![](Screenshot_2022-10-03_183015.png)
+![](./Screenshots/Screenshot_2022-10-03_183015.png)
 
 ### Footprinting the Service
 * We make requests to the DNS server

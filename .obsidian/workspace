@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 407.5
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -139,28 +138,15 @@
   },
   "active": "91d534b4e2b2ceeb",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Footprinting/Host_Based_Enumeration/Screenshot_2022-10-03_161946.png",
-    "Footprinting/enum-process.png",
-    "Footprinting/Host_Based_Enumeration/Screenshot_2022-10-02_113934.png",
-    "Footprinting/Host_Based_Enumeration/2_SMB_INFO.md",
-    "Footprinting/Host_Based_Enumeration/5_SMTP_INFO.md",
-    "Footprinting/Host_Based_Enumeration/1_FTP_INFO.md",
     "Footprinting/Host_Based_Enumeration/4_DNS_INFO.md",
-    "Footprinting/Host_Based_Enumeration/Screenshot_2022-10-03_161946 1.png",
     "Footprinting/Host_Based_Enumeration/3_NFS_INFO.md",
-    "Footprinting/Host_Based_Enumeration/Screenshot 2022-10-02 194447.png"
-=======
+    "Footprinting/Host_Based_Enumeration/2_SMB_INFO.md",
     "Footprinting/Host_Based_Enumeration/1_FTP_INFO.md",
     "Footprinting/Host_Based_Enumeration/Screenshots/Screenshot_2022-10-02_113934.png",
     "Footprinting/Host_Based_Enumeration/5_SMTP_INFO.md",
-    "Footprinting/enum-process.png",
-    "Footprinting/Host_Based_Enumeration/4_DNS_INFO.md",
-    "Footprinting/Host_Based_Enumeration/Screenshot_2022-10-03_161946 1.png",
-    "Footprinting/Host_Based_Enumeration/3_NFS_INFO.md",
-    "Footprinting/Host_Based_Enumeration/Screenshot 2022-10-02 194447.png",
-    "Footprinting/Host_Based_Enumeration/Screenshots/Screenshot_2022-10-02_194447.png",
-    "Footprinting/Infrastructure_Based_Enumeration/3_Staff_INFO.md"
->>>>>>> 41e4ee91e9937c0fe5f2d5139ad02d19199c495a
+    "Footprinting/Host_Based_Enumeration/Screenshot_2022-10-03_161714 1.png",
+    "Footprinting/Host_Based_Enumeration/Screenshots/Screenshot_2022-10-03_161714.png",
+    "Footprinting/Host_Based_Enumeration/Screenshots/Screenshot_2022-10-03_154439.png",
+    "Footprinting/Host_Based_Enumeration/Screenshots/Screenshot_2022-10-03_161946.png"
   ]
 }
