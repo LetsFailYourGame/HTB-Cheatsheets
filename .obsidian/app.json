@@ -38,7 +38,12 @@
     " SMPT-Aut",
     " ESMT",
     "SE ",
-    "mtp-open-relay]"
+    "mtp-open-relay]",
+    "queryable",
+    "MIBs",
+    "OID",
+    "OID",
+    "OIDs"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
