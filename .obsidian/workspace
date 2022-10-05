@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Footprinting/Host_Based_Enumeration/8_MYSQL_INFO.md",
+            "file": "Footprinting/Host_Based_Enumeration/9_MSSQL_INFO.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Footprinting/Host_Based_Enumeration/8_MYSQL_INFO.md",
+                "file": "Footprinting/Host_Based_Enumeration/9_MSSQL_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Footprinting/Host_Based_Enumeration/8_MYSQL_INFO.md",
+                "file": "Footprinting/Host_Based_Enumeration/9_MSSQL_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Footprinting/Host_Based_Enumeration/8_MYSQL_INFO.md"
+                "file": "Footprinting/Host_Based_Enumeration/9_MSSQL_INFO.md"
               }
             }
           },
@@ -139,8 +139,8 @@
   },
   "active": "91d534b4e2b2ceeb",
   "lastOpenFiles": [
-    "Footprinting/Host_Based_Enumeration/7_SNMP_INFO.md",
     "Footprinting/Host_Based_Enumeration/8_MYSQL_INFO.md",
+    "Footprinting/Host_Based_Enumeration/7_SNMP_INFO.md",
     "Footprinting/Host_Based_Enumeration/Screenshots/Screenshot_2022-10-05_140428.png",
     "Footprinting/Host_Based_Enumeration/6_IMAP_POP3_INFO.md",
     "Footprinting/Host_Based_Enumeration/2_SMB_INFO.md",

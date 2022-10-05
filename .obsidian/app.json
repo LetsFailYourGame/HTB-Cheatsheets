@@ -43,7 +43,8 @@
     "MIBs",
     "OID",
     "OID",
-    "OIDs"
+    "OIDs",
+    "MYSQL"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
