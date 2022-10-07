@@ -57,7 +57,13 @@
     "WinRM",
     "`WinRM",
     "WMI",
-    "Impacket"
+    "Impacket",
+    "WHOIS",
+    "whois",
+    "webserver",
+    "Wayback",
+    "ZoneTransfers",
+    "AXFR"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
