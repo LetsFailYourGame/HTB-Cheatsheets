@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Information Gathering (Web)/Active Information Gathering/3_Virtual_Hosts_INFO.md",
+            "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering (Web)/Active Information Gathering/3_Virtual_Hosts_INFO.md",
+                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering (Web)/Active Information Gathering/3_Virtual_Hosts_INFO.md",
+                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gathering (Web)/Active Information Gathering/3_Virtual_Hosts_INFO.md"
+                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md"
               }
             }
           },
@@ -139,15 +138,15 @@
   },
   "active": "91d534b4e2b2ceeb",
   "lastOpenFiles": [
+    "Information Gathering (Web)/Active Information Gathering/3_Virtual_Hosts_INFO.md",
+    "Information Gathering (Web)/Active Information Gathering/4_Crawling_INFO.md",
     "Information Gathering (Web)/Active Information Gathering/2_Active_Subdomain_Enumeration.md",
-    "Footprinting/Infrastructure_Based_Enumeration/1_Domain_Information_INFO.md",
     "Information Gathering (Web)/Active Information Gathering/1_Active_Infrastructure_Identification_INFO.md",
-    "Information Gathering (Web)/Passive Information Gathering/5_Passive_Infrastructure_Identification_INFO.md",
-    "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
-    "Information Gathering (Web)/Information_Gathereing_CLI.md",
-    "Information Gathering (Web)/Passive Information Gathering/3_VirusTotal_INFO.md",
-    "Information Gathering (Web)/Passive Information Gathering/2_NSLOOKUP_DIG_INFO.md",
     "Information Gathering (Web)/Passive Information Gathering/1_WHOIS_INFO.md",
-    "Footprinting/Host_Based_Enumeration/7_SNMP_INFO.md"
+    "Information Gathering (Web)/Passive Information Gathering/2_NSLOOKUP_DIG_INFO.md",
+    "FFUF/FFUF_INFO.md",
+    "FFUF/FFUF_CLI.md",
+    "Footprinting/Infrastructure_Based_Enumeration/1_Domain_Information_INFO.md",
+    "Information Gathering (Web)/Passive Information Gathering/5_Passive_Infrastructure_Identification_INFO.md"
   ]
 }

@@ -105,7 +105,8 @@ zoomeye
 
 ```sh
 $ export TARGET="facebook.com"
-$ cat sources.txt | while read source; do theHarvester -d "${TARGET}" -b $ source -f "${source}_${TARGET}";done
+$ cat sources.txt | while read source; do theHarvester -d "${TARGET}" -b 
+  $source -f "${source}_${TARGET}";done
 
 <SNIP>
 *******************************************************************

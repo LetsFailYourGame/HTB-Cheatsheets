@@ -63,7 +63,10 @@
     "webserver",
     "Wayback",
     "ZoneTransfers",
-    "AXFR"
+    "AXFR",
+    "vHost",
+    "vhost",
+    "FFuF"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true,
