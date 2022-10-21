@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
+            "file": "File Transfers/File Transfer Methods/1_Windows_File_Transfer_Methods.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 348.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
+                "file": "File Transfers/File Transfer Methods/1_Windows_File_Transfer_Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
+                "file": "File Transfers/File Transfer Methods/1_Windows_File_Transfer_Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md"
+                "file": "File Transfers/File Transfer Methods/1_Windows_File_Transfer_Methods.md"
               }
             }
           },
@@ -138,6 +139,7 @@
   },
   "active": "91d534b4e2b2ceeb",
   "lastOpenFiles": [
+    "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
     "Information Gathering (Web)/Active Information Gathering/3_Virtual_Hosts_INFO.md",
     "Information Gathering (Web)/Active Information Gathering/4_Crawling_INFO.md",
     "Information Gathering (Web)/Active Information Gathering/2_Active_Subdomain_Enumeration.md",
@@ -146,7 +148,6 @@
     "Information Gathering (Web)/Passive Information Gathering/2_NSLOOKUP_DIG_INFO.md",
     "FFUF/FFUF_INFO.md",
     "FFUF/FFUF_CLI.md",
-    "Footprinting/Infrastructure_Based_Enumeration/1_Domain_Information_INFO.md",
-    "Information Gathering (Web)/Passive Information Gathering/5_Passive_Infrastructure_Identification_INFO.md"
+    "Footprinting/Infrastructure_Based_Enumeration/1_Domain_Information_INFO.md"
   ]
 }
