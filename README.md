@@ -1,3 +1,6 @@
+# Useful Links
+* [IPPSEC](https://ippsec.rocks/?#) search a term get a detailed video
+
 # Useful Commands (General)
 | **Command**                                                                                               | **Description**                                |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
