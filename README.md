@@ -1,6 +1,6 @@
 # Useful Links
 * [IPPSEC](https://ippsec.rocks/?#) search a term, get a detailed video
-* Lists of Unix binarys for privesc
+* Lists of Unix binaries for privesc
 	* [LOLBAS](https://lolbas-project.github.io/#/) 
 	* [GTFOBins](https://gtfobins.github.io/)
 
@@ -23,10 +23,11 @@
 | `xsltproc <xml_file> -o <html_file>`               | Export nmap scan to HTML file                            |
 
 # Useful Commands (Services)
-| Command              | Description             |
-| -------------------- | ----------------------- |
-| `nc -nv <ip> <port>` | Interact with a service |
-| `telnet <ip> <port>` | Interact with a service |
-| `ftp <ip>`           | Interact with ftp service   | 
+| Command                                                  | Description               |
+| -------------------------------------------------------- | ------------------------- |
+| `nc -nv <ip> <port>`                                     | Interact with a service   |
+| `telnet <ip> <port>`                                     | Interact with a service   |
+| `ftp <ip>`                                               | Interact with ftp service |
+| `xfreerdp /v:10.10.10.132 /d:<dir> /u:<user> /p:<pass> ` | Connect via RDP           | 
 
 

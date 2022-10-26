@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "freer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,14 +151,14 @@
   },
   "active": "25d93f59a4a4ec6e",
   "lastOpenFiles": [
+    "File Transfers/File Transfer Methods/4_Miscellaneous_File_Transfer_Methods_INFO.md",
+    "README.md",
     "Shells and payloads/Web Shells/3_PHP_Web_Shells_INFO.md",
     "Shells and payloads/Web Shells/2_ASPX_INFO.md",
     "Shells and payloads/Web Shells/1_Laudanum_INFO.md",
     "Shells and payloads/Basics/2_Reverse_Shell_INFO.md",
     "Shells and payloads/Basics/3_Payloads_INFO.md",
-    "README.md",
     "Shells and payloads/Basics/1_Bind_Shell_INFO.md",
-    "File Transfers/File Transfer Methods/4_Miscellaneous_File_Transfer_Methods_INFO.md",
     "Shells and payloads/shells_payloads_CLI.md",
     "SQL Injections/SQLMap/Building Attacks/3_Attack_Tuning_INFO.md"
   ]

@@ -6,6 +6,8 @@
     "Webshell",
     "Antak",
     "ASPX",
-    "shell"
+    "shell",
+    "NMAP",
+    "privesc"
   ]
 }
