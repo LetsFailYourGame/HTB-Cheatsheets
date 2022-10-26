@@ -1,3 +1,11 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Metasploit",
+    "Antak",
+    "Webshell",
+    "Antak",
+    "ASPX",
+    "shell"
+  ]
 }
