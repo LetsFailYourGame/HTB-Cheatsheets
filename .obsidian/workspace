@@ -9,11 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Web attacks/HTTP Verb Tampering/1_Introduction_INFO.md",
-=======
             "file": "File Transfers/File Transfer Methods/1_Windows_File_Transfer_Methods.md",
->>>>>>> 5e39747daa8c17ed156fad2ff5a21f048f72de43
             "mode": "source",
             "source": false
           }
@@ -82,11 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Web attacks/HTTP Verb Tampering/1_Introduction_INFO.md",
-=======
                 "file": "File Transfers/File Transfer Methods/1_Windows_File_Transfer_Methods.md",
->>>>>>> 5e39747daa8c17ed156fad2ff5a21f048f72de43
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,11 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Web attacks/HTTP Verb Tampering/1_Introduction_INFO.md",
-=======
                 "file": "File Transfers/File Transfer Methods/1_Windows_File_Transfer_Methods.md",
->>>>>>> 5e39747daa8c17ed156fad2ff5a21f048f72de43
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,11 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Web attacks/HTTP Verb Tampering/1_Introduction_INFO.md"
-=======
                 "file": "File Transfers/File Transfer Methods/1_Windows_File_Transfer_Methods.md"
->>>>>>> 5e39747daa8c17ed156fad2ff5a21f048f72de43
               }
             }
           },
@@ -155,7 +139,6 @@
   },
   "active": "91d534b4e2b2ceeb",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "Web attacks/web_attacks_CLI.md",
     "Web attacks/HTTP Verb Tampering/1_Introduction_INFO.md",
     "File Transfers/Detection/1_Detection_INFO.md",
@@ -166,17 +149,5 @@
     "File Transfers/File Transfer Methods/5_Protected_File_Transfer_INFO.md",
     "Import Module Invoke-AESEncryption.ps1.md",
     "File Transfers/File Transfer Methods/4_Miscellaneous_File_Transfer_Methods_INFO.md"
-=======
-    "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
-    "Information Gathering (Web)/Active Information Gathering/3_Virtual_Hosts_INFO.md",
-    "Information Gathering (Web)/Active Information Gathering/4_Crawling_INFO.md",
-    "Information Gathering (Web)/Active Information Gathering/2_Active_Subdomain_Enumeration.md",
-    "Information Gathering (Web)/Active Information Gathering/1_Active_Infrastructure_Identification_INFO.md",
-    "Information Gathering (Web)/Passive Information Gathering/1_WHOIS_INFO.md",
-    "Information Gathering (Web)/Passive Information Gathering/2_NSLOOKUP_DIG_INFO.md",
-    "FFUF/FFUF_INFO.md",
-    "FFUF/FFUF_CLI.md",
-    "Footprinting/Infrastructure_Based_Enumeration/1_Domain_Information_INFO.md"
->>>>>>> 5e39747daa8c17ed156fad2ff5a21f048f72de43
   ]
 }
