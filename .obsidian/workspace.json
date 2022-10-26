@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web attacks/web_attacks_CLI.md",
+                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web attacks/web_attacks_CLI.md",
+                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web attacks/web_attacks_CLI.md",
+                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web attacks/web_attacks_CLI.md"
+                "file": "Information Gathering (Web)/Passive Information Gathering/4_Passive_Subdomain_Enumeration_INFO.md"
               }
             }
           },
@@ -148,8 +148,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "104cab7630c7de91",
+  "active": "a0f69f5e97ab7fc8",
   "lastOpenFiles": [
+    "Web attacks/web_attacks_CLI.md",
     "Screenshots/Screenshot_2022-10-03_161330.png.md",
     "Web attacks/XML External Entity (XXE) Injection/Screenshots/Screenshot_2022-10-22_224226.png",
     "Web attacks/XML External Entity (XXE) Injection/Screenshots/web_attacks_xxe_cause_error.jpg",
@@ -158,7 +159,6 @@
     "README.md",
     "SQL Injections/SQLMap/Building Attacks/3_Attack_Tuning_INFO.md",
     "SQL Injections/SQLMap/Building Attacks/4_Database_Enumeration_INFO.md",
-    "SQL Injections/SQLMap/Building Attacks/5_Advanced_Database_Enumeration_INFO.md",
-    "SQL Injections/SQLMap/Building Attacks/6_OS_Exploitation_INFO.md"
+    "SQL Injections/SQLMap/Building Attacks/5_Advanced_Database_Enumeration_INFO.md"
   ]
 }
