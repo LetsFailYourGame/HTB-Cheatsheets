@@ -4,5 +4,6 @@
   "obsidian-emoji-toolbar",
   "obsidian-languagetool-plugin",
   "obsidian-minimal-settings",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-electron-window-tweaker"
 ]

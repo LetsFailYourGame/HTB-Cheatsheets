@@ -1,9 +1,12 @@
 # Useful Commands (General)
-| **Command**             | **Description**                                |
-| ----------------------- | ---------------------------------------------- |
-| `locate <path>`         | Find files in any directory                    |
-| `ssh-keygen -t rsa`     | Generate key pair (SSH)                        |
-| `which <programm_name>` | Finds the path to a given program if it exists | 
+| **Command**                                                                                               | **Description**                                |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| `locate <path>`                                                                                           | Find files in any directory                    |
+| `ssh-keygen -t rsa`                                                                                       | Generate key pair (SSH)                        |
+| `which <programm_name>`                                                                                   | Finds the path to a given program if it exists |
+| `openssl req -x509 -out server.pem -keyout server.pem -newkey rsa:2048 -nodes -sha256 -subj '/CN=server'` | Create a self-signed certificate               |
+| `gunzip -S .zip <file>`                                                                                   | Unzip a file                                   |
+| `sudo -l`                                                                                                 | Check missconfigured binarys                                               |
 
 # Useful Commands (NMAP)
 | Command                                            | Description                                              |
@@ -18,6 +21,6 @@
 | -------------------- | ----------------------- |
 | `nc -nv <ip> <port>` | Interact with a service |
 | `telnet <ip> <port>` | Interact with a service |
-| `ftp <ip>`           | Check anonymous login   | 
+| `ftp <ip>`           | Interact with ftp service   | 
 
 
