@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CTF Writeups HTB/Trick/Writeup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CTF Writeups HTB/Trick/Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CTF Writeups HTB/Trick/Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CTF Writeups HTB/Trick/Writeup.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "81337ad2b13f966a",
   "lastOpenFiles": [
+    "README.md",
     "FFUF/FFUF_CLI.md",
     "FFUF/FFUF_INFO.md",
     "NMAP/Host Enumeration/3_Saving_the_Result_INFO.md",
@@ -155,7 +156,6 @@
     "Web attacks/HTTP Verb Tampering/2_Bypassing_Basic_Authentication_INFO.md",
     "Web attacks/HTTP Verb Tampering/1_Introduction_to_HTTP_verb_Tampering_INFO.md",
     "CTF Writeups HTB/Trick/Writeup.md",
-    "README.md",
     "Web attacks/web_attacks_CLI.md"
   ]
 }
