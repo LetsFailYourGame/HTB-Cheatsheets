@@ -3,6 +3,7 @@
 * Lists of Unix binaries for privesc
 	* [LOLBAS](https://lolbas-project.github.io/#/) 
 	* [GTFOBins](https://gtfobins.github.io/)
+* [HackTricks](https://book.hacktricks.xyz/welcome/readme), for checklists and information
 
 # Useful Commands (General)
 | **Command**                                                                                               | **Description**                                |
@@ -12,7 +13,8 @@
 | `which <programm_name>`                                                                                   | Finds the path to a given program if it exists |
 | `openssl req -x509 -out server.pem -keyout server.pem -newkey rsa:2048 -nodes -sha256 -subj '/CN=server'` | Create a self-signed certificate               |
 | `gunzip -S .zip <file>`                                                                                   | Unzip a file                                   |
-| `sudo -l`                                                                                                 | Check missconfigured binarys                                               |
+| `sudo -l`                                                                                                 | Check missconfigured binarys                   |
+| `chmod 600`                                                                                               | Set RSA keys permissions                       | 
 
 # Useful Commands (NMAP)
 | Command                                            | Description                                              |

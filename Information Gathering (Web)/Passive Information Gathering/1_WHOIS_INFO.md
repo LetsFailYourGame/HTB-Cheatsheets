@@ -71,7 +71,7 @@ Name Server: C.NS.FACEBOOK.COM
 Name Server: B.NS.FACEBOOK.COM
 Name Server: A.NS.FACEBOOK.COM
 Name Server: D.NS.FACEBOOK.COM
-DNSSEC: unsigned
+eDNSSEC: unsigned
 
 <SNIP>
 ```

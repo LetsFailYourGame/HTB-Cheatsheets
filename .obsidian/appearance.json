@@ -2,6 +2,6 @@
   "theme": "obsidian",
   "translucency": false,
   "cssTheme": "Obsidianite",
-  "baseFontSize": 17,
-  "accentColor": ""
+  "baseFontSize": 19,
+  "accentColor": "#3c24f5"
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b683aae1e5bc4fe",
+        "id": "2d62c7db1a0a15d2",
         "type": "tabs",
         "children": [
           {
-            "id": "25d93f59a4a4ec6e",
+            "id": "81337ad2b13f966a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 282.51103591918945
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -146,20 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "25d93f59a4a4ec6e",
+  "active": "81337ad2b13f966a",
   "lastOpenFiles": [
-    "File Transfers/File Transfer Methods/4_Miscellaneous_File_Transfer_Methods_INFO.md",
-    "README.md",
-    "Shells and payloads/Web Shells/3_PHP_Web_Shells_INFO.md",
-    "Shells and payloads/Web Shells/2_ASPX_INFO.md",
-    "Shells and payloads/Web Shells/1_Laudanum_INFO.md",
-    "Shells and payloads/Basics/2_Reverse_Shell_INFO.md",
-    "Shells and payloads/Basics/3_Payloads_INFO.md",
-    "Shells and payloads/Basics/1_Bind_Shell_INFO.md",
+    "FFUF/FFUF_CLI.md",
+    "FFUF/FFUF_INFO.md",
+    "NMAP/Host Enumeration/3_Saving_the_Result_INFO.md",
+    "NMAP/NMAP_CLI.md",
     "Shells and payloads/shells_payloads_CLI.md",
-    "SQL Injections/SQLMap/Building Attacks/3_Attack_Tuning_INFO.md"
+    "Web attacks/HTTP Verb Tampering/2_Bypassing_Basic_Authentication_INFO.md",
+    "Web attacks/HTTP Verb Tampering/1_Introduction_to_HTTP_verb_Tampering_INFO.md",
+    "CTF Writeups HTB/Trick/Writeup.md",
+    "README.md",
+    "Web attacks/web_attacks_CLI.md"
   ]
 }

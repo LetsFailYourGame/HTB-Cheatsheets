@@ -1,5 +1,5 @@
 ## Bypassing the File Type Restriction
-* Upload PHP shell to website and capture request
+* Upload [PHP shell](https://github.com/WhiteWinterWolf/wwwolf-php-webshell) to website and capture request
 
 ![[./Screenshots/burp.png]]
 

@@ -8,6 +8,11 @@
     "ASPX",
     "shell",
     "NMAP",
-    "privesc"
+    "privesc",
+    "nikto",
+    "dirbust",
+    "SQLi",
+    "cCURL",
+    "lets"
   ]
 }
