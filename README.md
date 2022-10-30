@@ -14,10 +14,13 @@
 | `openssl req -x509 -out server.pem -keyout server.pem -newkey rsa:2048 -nodes -sha256 -subj '/CN=server'` | Create a self-signed certificate               |
 | `gunzip -S .zip <file>`                                                                                   | Unzip a file                                   |
 | `sudo -l`                                                                                                 | Check missconfigured binarys                   |
-| `chmod 600`                                                                                               | Set RSA keys permissions                       | 
+| `chmod 600`                                                                                               | Set RSA keys permissions                       |
+| `find / -user <user> (-group <group>) (-ls) 2>/dev/null` \| `grep -v '/<dir_to_hide>\|<dir2>'`                  | Grep all the contents owed by user filtered    |
+| `searchsploit -x <path>`                                                                                  | Save searchsploit exploit                      |
+| `groups`                                                                                                  | Check the groups of a user                                               |
 
 # Useful Commands (NMAP)
-| Command                                            | Description                                              |
+| **Command**                                            | **Description**                                              |
 | -------------------------------------------------- | -------------------------------------------------------- |
 | `tcpdump -i tun0 host <host_ip>`                   | Can display additional information nmap doesn't show     |
 | `nmap <host_ip> -Pn -n -disable-arp-ping -sV -sS ` | Stealth nmap scan which enumerates service versions      |
@@ -25,7 +28,7 @@
 | `xsltproc <xml_file> -o <html_file>`               | Export nmap scan to HTML file                            |
 
 # Useful Commands (Services)
-| Command                                                  | Description               |
+| **Command**                                                  | **Description**               |
 | -------------------------------------------------------- | ------------------------- |
 | `nc -nv <ip> <port>`                                     | Interact with a service   |
 | `telnet <ip> <port>`                                     | Interact with a service   |

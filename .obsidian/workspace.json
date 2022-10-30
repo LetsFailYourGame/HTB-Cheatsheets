@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF Writeups HTB/Trick/Writeup.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12d599aa09253368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF Writeups HTB/Trick/Writeup.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF Writeups HTB/Trick/Writeup.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF Writeups HTB/Trick/Writeup.md"
+                "file": "README.md"
               }
             }
           },
@@ -145,17 +158,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "81337ad2b13f966a",
+  "active": "12d599aa09253368",
   "lastOpenFiles": [
+    "SQL Injections/SQLMap/sqlmap_CLI.md",
     "README.md",
     "FFUF/FFUF_CLI.md",
+    "XSS/Links.md",
+    "CTF Writeups HTB/Trick/Writeup.md",
     "FFUF/FFUF_INFO.md",
     "NMAP/Host Enumeration/3_Saving_the_Result_INFO.md",
     "NMAP/NMAP_CLI.md",
     "Shells and payloads/shells_payloads_CLI.md",
-    "Web attacks/HTTP Verb Tampering/2_Bypassing_Basic_Authentication_INFO.md",
-    "Web attacks/HTTP Verb Tampering/1_Introduction_to_HTTP_verb_Tampering_INFO.md",
-    "CTF Writeups HTB/Trick/Writeup.md",
-    "Web attacks/web_attacks_CLI.md"
+    "Web attacks/HTTP Verb Tampering/2_Bypassing_Basic_Authentication_INFO.md"
   ]
 }
