@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL injections/4_Union_Clause_INFO.md",
+                "file": "SQL/SQL injections/sqli_CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.51103591918945,
-    "collapsed": true
+    "width": 282.51103591918945
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL injections/4_Union_Clause_INFO.md",
+                "file": "SQL/SQL injections/sqli_CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL injections/4_Union_Clause_INFO.md",
+                "file": "SQL/SQL injections/sqli_CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL injections/4_Union_Clause_INFO.md"
+                "file": "SQL/SQL injections/sqli_CLI.md"
               }
             }
           },
@@ -183,8 +182,10 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "00c069d64aadf6a9",
+  "active": "104cab7630c7de91",
   "lastOpenFiles": [
+    "XSS/Links.md",
+    "SQL/SQL injections/4_Union_Clause_INFO.md",
     "SQL/SQL injections/3_Using_Comments_INFO.md",
     "SQL/SQL injections/2_Subverting_Query_Logic_INFO.md",
     "SQL/SQL injections/1_Intro_to_SQL_Injections_INFO.md",
@@ -192,8 +193,6 @@
     "SQL/MySQL/4_Query_Results_INFO.md",
     "SQL/MySQL/3_SQL_Statements_INFO.md",
     "SQL/MySQL/2_Intro_to_MySQL_INFO.md",
-    "SQL/MySQL/1_Types_of_databases_INFO.md",
-    "README.md",
-    "SQL/sqli_CLI.md"
+    "SQL/MySQL/1_Types_of_databases_INFO.md"
   ]
 }
