@@ -1,7 +1,7 @@
 ## Curl Commands
 * Utilize `Copy as cURL` feature from within the Network (Monitor) panel inside the Chrome, Edge, or Firefox Developer Tools
 
-![](../../Screenshots/M5UVR6n.png)
+![](M5UVR6n.png)
 
 * Then change the `curl` command to `sqlmap`
 

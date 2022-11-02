@@ -104,5 +104,5 @@ URI: http://www.example.com:80/?id=1
 *  Utilize the `--proxy` (proxychains) option to redirect the whole traffic through a (MiTM) proxy (e.g., `Burp`) 
 * So that we can later manually investigate all requests, repeat them
 
-![](../../Screenshots/eIwJeV3.png)
+![](eIwJeV3.png)
 

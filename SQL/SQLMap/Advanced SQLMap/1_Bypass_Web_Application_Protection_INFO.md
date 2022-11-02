@@ -75,7 +75,7 @@ URI: http://www.example.com:80/?id=1%29%20AND%209978%socks4://177.39.187.70:3328
 * Can be chained  `--tamper` option (e.g. `--tamper=between,randomcase`)
 * Most notable tamper scripts (`--list-tampers`)
 
-![](../../Screenshots/Screenshot_2022-10-26_014706.png)
+![](Screenshot_2022-10-26_014706.png)
 
 ## Miscellaneous Bypasses
 * `Chunked` transfer encoding, turned on using the switch `--chunked`
