@@ -13,7 +13,8 @@
     "dirbust",
     "SQLi",
     "cCURL",
-    "lets"
+    "lets",
+    "OUTFILE"
   ],
   "alwaysUpdateLinks": true
 }

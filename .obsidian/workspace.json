@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cfcec1b8a6eb868",
+            "id": "cc3421d797d32d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL injections/1_Intro_to_SQL_Injections_INFO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4e3194f526de8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/SQL injections/2_Subverting_Query_Logic_INFO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6203a8147bf7d8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/SQL injections/3_Using_Comments_INFO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00c069d64aadf6a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/SQL injections/sqli_CLI.md",
-                "mode": "source",
+                "file": "Metasploit/Metasploit_Framework_INFO.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL injections/sqli_CLI.md",
+                "file": "Metasploit/Metasploit_Framework_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL injections/sqli_CLI.md",
+                "file": "Metasploit/Metasploit_Framework_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL injections/sqli_CLI.md"
+                "file": "Metasploit/Metasploit_Framework_INFO.md"
               }
             }
           },
@@ -182,17 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "104cab7630c7de91",
+  "active": "cc3421d797d32d2b",
   "lastOpenFiles": [
-    "XSS/Links.md",
+    "Metasploit/Metasploit_Framework_CLI.md",
+    "SQL/Exploitation/3_Writing_Files_INFO.md",
+    "SQL/Exploitation/2_Reading_Files_INFO.md",
+    "SQL/Exploitation/1_Database_Enumeration_INFO.md",
+    "SQL/SQL injections/5_Union_Injection_INFO.md",
     "SQL/SQL injections/4_Union_Clause_INFO.md",
-    "SQL/SQL injections/3_Using_Comments_INFO.md",
-    "SQL/SQL injections/2_Subverting_Query_Logic_INFO.md",
-    "SQL/SQL injections/1_Intro_to_SQL_Injections_INFO.md",
-    "SQL/MySQL/5_SQL_Operators_INFO.md",
-    "SQL/MySQL/4_Query_Results_INFO.md",
-    "SQL/MySQL/3_SQL_Statements_INFO.md",
-    "SQL/MySQL/2_Intro_to_MySQL_INFO.md",
-    "SQL/MySQL/1_Types_of_databases_INFO.md"
+    "SQL/Screenshots/web_apps_relational_db.jpg",
+    "SQL/Screenshots/types_of_sqli.jpg",
+    "SQL/Screenshots/Screenshot_2022-10-26_014706.png",
+    "SQL/Screenshots/pblatt02.pdf"
   ]
 }
