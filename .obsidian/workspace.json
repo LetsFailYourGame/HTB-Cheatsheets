@@ -11,11 +11,9 @@
             "id": "cc3421d797d32d2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Metasploit/Metasploit_Framework_INFO.md",
-                "mode": "preview",
-                "source": false
+                "file": "SQL/Screenshots/db_name.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metasploit/Metasploit_Framework_INFO.md",
+                "file": "SQL/Screenshots/db_name.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metasploit/Metasploit_Framework_INFO.md",
+                "file": "SQL/Screenshots/db_name.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metasploit/Metasploit_Framework_INFO.md"
+                "file": "SQL/Screenshots/db_name.jpg"
               }
             }
           },
@@ -147,15 +145,15 @@
   },
   "active": "cc3421d797d32d2b",
   "lastOpenFiles": [
-    "Metasploit/Metasploit_Framework_CLI.md",
-    "SQL/Exploitation/3_Writing_Files_INFO.md",
-    "SQL/Exploitation/2_Reading_Files_INFO.md",
-    "SQL/Exploitation/1_Database_Enumeration_INFO.md",
-    "SQL/SQL injections/5_Union_Injection_INFO.md",
-    "SQL/SQL injections/4_Union_Clause_INFO.md",
-    "SQL/Screenshots/web_apps_relational_db.jpg",
-    "SQL/Screenshots/types_of_sqli.jpg",
+    "SQL/Screenshots/db_version_1.jpg",
+    "SQL/Screenshots/eIwJeV3.png",
+    "SQL/Screenshots/M5UVR6n.png",
+    "SQL/Screenshots/HTB Academy Student Transcript.pdf",
+    "SQL/Screenshots/Max Randhahn_11355044_0.pdf",
+    "SQL/Screenshots/or_inject_diagram.png",
+    "SQL/Screenshots/ports_columns_correct.png",
+    "SQL/Screenshots/ports_dbs.png",
     "SQL/Screenshots/Screenshot_2022-10-26_014706.png",
-    "SQL/Screenshots/pblatt02.pdf"
+    "Metasploit/Metasploit_Framework_INFO.md"
   ]
 }
