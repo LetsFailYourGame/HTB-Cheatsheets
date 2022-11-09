@@ -31,8 +31,12 @@
             "id": "348c571e8c1edee5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CTF Writeups HTB/Trick/Writeup.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CTF Writeups HTB/Trick/Writeup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CTF Writeups HTB/Trick/Writeup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CTF Writeups HTB/Trick/Writeup.md"
+              }
             }
           },
           {
@@ -158,8 +166,9 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "104cab7630c7de91",
+  "active": "348c571e8c1edee5",
   "lastOpenFiles": [
+    "Attacking Common Services/Screenshots/B-1-Kontextfreie-Grammatiken-ohne-Klicks (1).pdf",
     "Attacking Common Services/Screenshots/Max Randhahn_11402015_assignsubmission_file_ha03 (1).pdf",
     "Attacking Common Services/Services/SMTP/2_Latest_Email_Service_Vulnearabilities_INFO.md",
     "Footprinting/Host_Based_Enumeration/6_IMAP_POP3_INFO.md",
@@ -168,7 +177,6 @@
     "Attacking Common Services/Services/SMTP/1_Attacking_SMTP_INFO.md",
     "Attacking Common Services/Services/SMB/1_Attacking_SMB_INFO.md",
     "CTF Writeups HTB/Trick/Writeup.md",
-    "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md",
-    "Attacking Common Services/Services/DNS/1_Attacking_DNS_INFO.md"
+    "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md"
   ]
 }

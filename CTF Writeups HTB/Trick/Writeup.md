@@ -52,7 +52,7 @@ Target domain ............
 ## Initial website enumeration
 * When visiting the page we do not have a lot of options to enumerate the page in the browser, so let's move on to tools
 
-![[./Screenshots/initial_web.png]]
+![[initial_web.png]]
 
 * Let's start with a quick nikto enumeration 
 
