@@ -8,8 +8,8 @@ $ cp /usr/share/webshells/laudanum/aspx/shell.aspx /home/tester/demo.aspx
 
 * Modify the file
 
-![[./Screenshots/modify-shell.png]]
+![](./Screenshots/modify-shell.png)
 
 * Upload the file to the website and navigate to it
 
-![[./Screenshots/laud-nav.png]]
+![](./Screenshots/laud-nav.png)

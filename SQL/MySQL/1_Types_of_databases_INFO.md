@@ -13,7 +13,7 @@
 	* Concept is required to link one table to another using its key
 	* `relational database management system` (`RDBMS`)
 
-![[../../Screenshots/web_apps_relational_db.jpg]]
+![](../../Screenshots/web_apps_relational_db.jpg)
 
 ## Non-relational Databases
 * Also called `NoSQL` 

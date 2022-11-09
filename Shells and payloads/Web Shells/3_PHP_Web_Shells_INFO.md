@@ -1,12 +1,12 @@
 ## Bypassing the File Type Restriction
 * Upload [PHP shell](https://github.com/WhiteWinterWolf/wwwolf-php-webshell) to website and capture request
 
-![[./Screenshots/burp.png]]
+![](./Screenshots/burp.png)
 
 * Change Content-type from `application/x-php` to `image/gif` to trick the application
 * Navigate to the file `/images/vendor/connect.php` and we get a shell like before
 
-![[./Screenshots/web_shell_now.png]]
+![](./Screenshots/web_shell_now.png)
 
 * Limitations
 	- Web applications sometimes automatically delete files after a pre-defined period

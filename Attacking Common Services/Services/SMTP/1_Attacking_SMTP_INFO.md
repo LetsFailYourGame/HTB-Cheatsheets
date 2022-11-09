@@ -1,4 +1,4 @@
-![[../../Screenshots/SMTP-IMAP-1.png]]
+![][../../Screenshots/SMTP-IMAP-1.png]
 
 ## Enumeration
 * Usually require us to enumerate multiple servers, ports, and services

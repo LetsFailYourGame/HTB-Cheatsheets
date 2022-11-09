@@ -52,7 +52,7 @@ Target domain ............
 ## Initial website enumeration
 * When visiting the page we do not have a lot of options to enumerate the page in the browser, so let's move on to tools
 
-![[initial_web.png]]
+![](./Screenshots/initial_web.png)
 
 * Let's start with a quick nikto enumeration 
 
@@ -131,7 +131,7 @@ trick.htb.              604800  IN      SOA     trick.htb. root.trick.htb. 5 604
 * And indeed, we found a new subdomain `preprod-payroll.trick.htb`
 * Let us add this to our hosts file and check out the web page
 
-![[./Screenshots/payroll.png]]
+![](./Screenshots/payroll.png)
 
 * Look at that, a login page
 * Running a quick dirbust again gives us the following
@@ -204,7 +204,7 @@ Parameter: username (POST)
 
 * We can now log into the web application and explore the admin panel!
 
-![[./Screenshots/rms.png]]
+![](./Screenshots/rms.png)
 
 * After enumerating this for a while, we could not find any vulnerabilities that would help us for a shell or similar
 * So, if we take a look at the subdomain `preprod-payroll.trick.htb` we see that it starts with `preprod-` followed by a name, in this case `payroll`
@@ -230,7 +230,7 @@ marketing               [Status: 200, Size: 9660, Words: 3007, Lines: 179, Durat
 
 * We got a hit on `preprod-marketing.trick.htb`
 
-![[./Screenshots/marketing.png]]
+![](./Screenshots/marketing.png)
 
 * After some enumeration with ffuf and nikto I the get parameter `?page=` looked like it is loading files
 

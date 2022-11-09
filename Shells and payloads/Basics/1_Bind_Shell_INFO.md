@@ -1,4 +1,4 @@
-![[./Screenshots/bindshell.png]]
+![](./Screenshots/bindshell.png)
 
 * Connect with `IP address` and `port` to the target
 

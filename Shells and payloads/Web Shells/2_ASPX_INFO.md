@@ -22,8 +22,8 @@ $ cp /usr/share/nishang/Antak-WebShell/antak.aspx /home/administrator/Upload.asp
 
 * Modify `line 14`, adding a user (green arrow) and password (orange arrow)
 
-![[./Screenshots/antak-changes.png]]
+![](./Screenshots/antak-changes.png)
 
-![[./Screenshots/antak-creds-prompt.png]]
+![](./Screenshots/antak-creds-prompt.png)
 
-![[./Screenshots/antak-success.png]]
+![](./Screenshots/antak-success.png)

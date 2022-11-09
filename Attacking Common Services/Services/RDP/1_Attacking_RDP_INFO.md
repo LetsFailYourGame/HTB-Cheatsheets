@@ -96,7 +96,7 @@ Do you trust this certificate (yes/no)? yes
 * In this case, we are `juurena` with `UserID = 2` who has `Administrator` privileges
 * Our goal is to hijack the user `lewen` (User ID = 4), who is also logged in via RDP
 
-![[../../Screenshots/rdp_session-1-2.png]]
+![](../../Screenshots/rdp_session-1-2.png)
 
 * To successfully impersonate a user without their password, we need to have `SYSTEM` privileges and use the Microsoft [tscon.exe](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/tscon) binary that enables users to connect to another desktop session
 * Works by specifying which `SESSION ID` (`4` for the `lewen` session in our example) we would like to connect to which session name (`rdp-tcp#13`, which is our current session)

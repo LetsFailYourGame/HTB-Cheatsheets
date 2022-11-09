@@ -24,5 +24,6 @@
     "SQLCMDMAXVARTYPEWIDTH",
     "sqsh"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }

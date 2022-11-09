@@ -63,7 +63,7 @@ Error: near line 1: near "'": syntax error
 ## Types of SQL Injections
 * Depending on where the in input is retrieved, we have a different categorie of injection
 
-![[../../Screenshots/types_of_sqli.jpg]]
+![](../../Screenshots/types_of_sqli.jpg)
 
 * `In-band`
 	* Output of both the intended and the new query may be printed directly on the front end, and we can directly read it

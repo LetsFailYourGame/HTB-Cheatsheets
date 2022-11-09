@@ -3,7 +3,7 @@
 
 #### Shodan Search
 
-![[../../Screenshots/opensmtpd.png]]
+![](../../Screenshots/opensmtpd.png)
 
-![[../../Screenshots/opensmtpd_trend.png]]
+![](../../Screenshots/opensmtpd_trend.png)
 

@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smtp",
+                "query": "[[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,15 +169,15 @@
   },
   "active": "348c571e8c1edee5",
   "lastOpenFiles": [
-    "Attacking Common Services/Screenshots/B-1-Kontextfreie-Grammatiken-ohne-Klicks (1).pdf",
-    "Attacking Common Services/Screenshots/Max Randhahn_11402015_assignsubmission_file_ha03 (1).pdf",
+    "Attacking Common Services/Introduction/Interacting_with_services_INFO.md",
+    "SQL/SQL injections/5_Union_Injection_INFO.md",
+    "SQL/Exploitation/3_Writing_Files_INFO.md",
+    "Shells and payloads/Web Shells/3_PHP_Web_Shells_INFO.md",
+    "SQL/SQL injections/2_Subverting_Query_Logic_INFO.md",
     "Attacking Common Services/Services/SMTP/2_Latest_Email_Service_Vulnearabilities_INFO.md",
-    "Footprinting/Host_Based_Enumeration/6_IMAP_POP3_INFO.md",
-    "Footprinting/Host_Based_Enumeration/5_SMTP_INFO.md",
-    "Footprinting/Host_Based_Enumeration/2_SMB_INFO.md",
-    "Attacking Common Services/Services/SMTP/1_Attacking_SMTP_INFO.md",
-    "Attacking Common Services/Services/SMB/1_Attacking_SMB_INFO.md",
-    "CTF Writeups HTB/Trick/Writeup.md",
-    "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md"
+    "Shells and payloads/Web Shells/2_ASPX_INFO.md",
+    "SQL/MySQL/1_Types_of_databases_INFO.md",
+    "Shells and payloads/Web Shells/1_Laudanum_INFO.md",
+    "SQL/SQL injections/1_Intro_to_SQL_Injections_INFO.md"
   ]
 }
