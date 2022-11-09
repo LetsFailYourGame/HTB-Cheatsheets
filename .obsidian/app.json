@@ -14,7 +14,15 @@
     "SQLi",
     "cCURL",
     "lets",
-    "OUTFILE"
+    "OUTFILE",
+    "cmdlet",
+    "MSSQL",
+    "CoreFTP",
+    "in$ sh",
+    "PSExec",
+    "admin$",
+    "SQLCMDMAXVARTYPEWIDTH",
+    "sqsh"
   ],
   "alwaysUpdateLinks": true
 }

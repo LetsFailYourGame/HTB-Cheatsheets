@@ -1,8 +1,8 @@
 # Useful Links
 * [IPPSEC](https://ippsec.rocks/?#) search a term, get a detailed video
 * Lists of Unix binaries for privesc
-	* [LOLBAS](https://lolbas-project.github.io/#/) 
-	* [GTFOBins](https://gtfobins.github.io/)
+	* [LOLBAS](https://lolbas-project.github.io/#/) (Windows)
+	* [GTFOBins](https://gtfobins.github.io/) (Linux)
 * [HackTricks](https://book.hacktricks.xyz/welcome/readme), for checklists and information
 
 # Useful Commands (General)

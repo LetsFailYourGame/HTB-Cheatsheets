@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9703ac7e3884471d",
+        "id": "2f9a90faa5ad2cfc",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3421d797d32d2b",
+            "id": "0da9e5f3116b7aba",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "SQL/Screenshots/db_name.jpg"
+                "file": "Footprinting/Host_Based_Enumeration/6_IMAP_POP3_INFO.md",
+                "mode": "source",
+                "source": false
               }
             }
+          },
+          {
+            "id": "cb4c67061b7b78a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "348c571e8c1edee5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -46,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "smtp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.51103591918945
+    "width": 255.5
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -83,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Screenshots/db_name.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Screenshots/db_name.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/Screenshots/db_name.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -143,17 +158,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "cc3421d797d32d2b",
+  "active": "104cab7630c7de91",
   "lastOpenFiles": [
-    "SQL/Screenshots/db_version_1.jpg",
-    "SQL/Screenshots/eIwJeV3.png",
-    "SQL/Screenshots/M5UVR6n.png",
-    "SQL/Screenshots/HTB Academy Student Transcript.pdf",
-    "SQL/Screenshots/Max Randhahn_11355044_0.pdf",
-    "SQL/Screenshots/or_inject_diagram.png",
-    "SQL/Screenshots/ports_columns_correct.png",
-    "SQL/Screenshots/ports_dbs.png",
-    "SQL/Screenshots/Screenshot_2022-10-26_014706.png",
-    "Metasploit/Metasploit_Framework_INFO.md"
+    "Attacking Common Services/Screenshots/Max Randhahn_11402015_assignsubmission_file_ha03 (1).pdf",
+    "Attacking Common Services/Services/SMTP/2_Latest_Email_Service_Vulnearabilities_INFO.md",
+    "Footprinting/Host_Based_Enumeration/6_IMAP_POP3_INFO.md",
+    "Footprinting/Host_Based_Enumeration/5_SMTP_INFO.md",
+    "Footprinting/Host_Based_Enumeration/2_SMB_INFO.md",
+    "Attacking Common Services/Services/SMTP/1_Attacking_SMTP_INFO.md",
+    "Attacking Common Services/Services/SMB/1_Attacking_SMB_INFO.md",
+    "CTF Writeups HTB/Trick/Writeup.md",
+    "NMAP/Host Enumeration/4_Service_Enumeration_INFO.md",
+    "Attacking Common Services/Services/DNS/1_Attacking_DNS_INFO.md"
   ]
 }
