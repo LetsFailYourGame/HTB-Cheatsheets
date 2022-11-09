@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2f9a90faa5ad2cfc",
+        "id": "12cee7cfe2a10854",
         "type": "tabs",
         "children": [
           {
-            "id": "0da9e5f3116b7aba",
+            "id": "c31277993582f95c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Footprinting/Host_Based_Enumeration/6_IMAP_POP3_INFO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb4c67061b7b78a9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "348c571e8c1edee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md",
-                "mode": "source",
-                "source": false
+                "file": "Attacking Common Services/Screenshots/opensmtpd.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hashcat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -107,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md",
+                "file": "Attacking Common Services/Screenshots/opensmtpd.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md",
+                "file": "Attacking Common Services/Screenshots/opensmtpd.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md"
+                "file": "Attacking Common Services/Screenshots/opensmtpd.png"
               }
             }
           },
@@ -167,17 +143,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "348c571e8c1edee5",
+  "active": "c31277993582f95c",
   "lastOpenFiles": [
-    "CTF Writeups HTB/Trick/Writeup.md",
-    "Attacking Common Services/Introduction/Interacting_with_services_INFO.md",
-    "SQL/SQL injections/5_Union_Injection_INFO.md",
-    "SQL/Exploitation/3_Writing_Files_INFO.md",
-    "Shells and payloads/Web Shells/3_PHP_Web_Shells_INFO.md",
-    "SQL/SQL injections/2_Subverting_Query_Logic_INFO.md",
-    "Attacking Common Services/Services/SMTP/2_Latest_Email_Service_Vulnearabilities_INFO.md",
-    "Shells and payloads/Web Shells/2_ASPX_INFO.md",
-    "SQL/MySQL/1_Types_of_databases_INFO.md",
-    "Shells and payloads/Web Shells/1_Laudanum_INFO.md"
+    "Attacking Common Services/Screenshots/opensmtpd_trend.png",
+    "Attacking Common Services/Screenshots/rdp_session-1-2.png",
+    "Attacking Common Services/Screenshots/Screenshot_2022-11-07_212415.png",
+    "Attacking Common Services/Screenshots/SMTP-IMAP-1.png",
+    "Attacking Common Services/Services/FTP/2_Latest_FTP_Vulnearabilites_INFO.md",
+    "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
+    "Footprinting/Host_Based_Enumeration/8_MYSQL_INFO.md",
+    "Attacking Common Services/Services/FTP/1_Attacking_FTP_INFO.md",
+    "Attacking Common Services/attacking_common_services_CLI.md",
+    "Attacking Common Services/Services/SMB/1_Attacking_SMB_INFO.md"
   ]
 }

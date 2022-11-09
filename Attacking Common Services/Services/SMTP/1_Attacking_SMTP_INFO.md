@@ -163,6 +163,27 @@ USER john
 +OK
 ```
 
+#### Login
+
+```sh
+echo -n fiona@inlanefreight.htb | base64
+echo -n password | base64
+
+220 WIN-EASY ESMTP
+ehlo me.com
+250-WIN-EASY
+250-SIZE 20480000
+250-AUTH LOGIN PLAIN
+250 HELP
+auth login
+334 VXNlcm5hbWU6
+ZmlvbmFAaW5sYW5lZnJlaWdodC5odGI=
+334 UGFzc3dvcmQ6
+<SNIP>
+235 authenticated.
+
+```
+
 * To automate our enumeration process, we can use a tool named [smtp-user-enum](https://github.com/pentestmonkey/smtp-user-enum)
 
 ```sh
