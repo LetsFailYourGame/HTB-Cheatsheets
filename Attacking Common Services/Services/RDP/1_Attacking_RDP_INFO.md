@@ -130,7 +130,7 @@ C:\htb> net start sessionhijack
 _Note: This method no longer works on Server 2019._
 
 ## RDP Pass-the-Hash (PtH)
-* we only have the NT hash of the user obtained from a credential dumping attack such as [SAM](https://en.wikipedia.org/wiki/Security_Account_Manager) database, and we could not crack the hash to reveal the plaintext password, we can not use software only available trough a GUI
+* We only have the NT hash of the user obtained from a credential dumping attack such as [SAM](https://en.wikipedia.org/wiki/Security_Account_Manager) database, and we could not crack the hash to reveal the plaintext password, we can not use software only available trough a GUI
 * In some instances, we can perform an RDP PtH attack to gain GUI access to the target system using tools like `xfreerdp`
 * `Restricted Admin Mode`, which is disabled by default, should be enabled on the target host; otherwise, we will be prompted with an error
 * However, this can be enabled by adding a new registry key `DisableRestrictedAdmin` (REG_DWORD) under `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Lsa`

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF Writeups HTB/Trick/Writeup.md",
+                "file": "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +86,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 255.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CTF Writeups HTB/Trick/Writeup.md",
+                "file": "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CTF Writeups HTB/Trick/Writeup.md",
+                "file": "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF Writeups HTB/Trick/Writeup.md"
+                "file": "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "348c571e8c1edee5",
   "lastOpenFiles": [
+    "CTF Writeups HTB/Trick/Writeup.md",
     "Attacking Common Services/Introduction/Interacting_with_services_INFO.md",
     "SQL/SQL injections/5_Union_Injection_INFO.md",
     "SQL/Exploitation/3_Writing_Files_INFO.md",
@@ -177,7 +178,6 @@
     "Attacking Common Services/Services/SMTP/2_Latest_Email_Service_Vulnearabilities_INFO.md",
     "Shells and payloads/Web Shells/2_ASPX_INFO.md",
     "SQL/MySQL/1_Types_of_databases_INFO.md",
-    "Shells and payloads/Web Shells/1_Laudanum_INFO.md",
-    "SQL/SQL injections/1_Intro_to_SQL_Injections_INFO.md"
+    "Shells and payloads/Web Shells/1_Laudanum_INFO.md"
   ]
 }
