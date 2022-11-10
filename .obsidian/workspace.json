@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "12cee7cfe2a10854",
+        "id": "dc0580d2908d9939",
         "type": "tabs",
         "children": [
           {
-            "id": "c31277993582f95c",
+            "id": "2dc0954e92b2b9eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attacking Common Services/Screenshots/opensmtpd.png"
+                "file": "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hashcat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking Common Services/Screenshots/opensmtpd.png",
+                "file": "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking Common Services/Screenshots/opensmtpd.png",
+                "file": "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking Common Services/Screenshots/opensmtpd.png"
+                "file": "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md"
               }
             }
           },
@@ -143,17 +145,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "c31277993582f95c",
+  "active": "104cab7630c7de91",
   "lastOpenFiles": [
-    "Attacking Common Services/Screenshots/opensmtpd_trend.png",
-    "Attacking Common Services/Screenshots/rdp_session-1-2.png",
-    "Attacking Common Services/Screenshots/Screenshot_2022-11-07_212415.png",
-    "Attacking Common Services/Screenshots/SMTP-IMAP-1.png",
-    "Attacking Common Services/Services/FTP/2_Latest_FTP_Vulnearabilites_INFO.md",
+    "Attacking Common Services/Services/SMB/1_Attacking_SMB_INFO.md",
+    "SQL/Exploitation/1_Database_Enumeration_INFO.md",
     "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
-    "Footprinting/Host_Based_Enumeration/8_MYSQL_INFO.md",
     "Attacking Common Services/Services/FTP/1_Attacking_FTP_INFO.md",
-    "Attacking Common Services/attacking_common_services_CLI.md",
-    "Attacking Common Services/Services/SMB/1_Attacking_SMB_INFO.md"
+    "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md",
+    "Attacking Common Services/Services/DNS/1_Attacking_DNS_INFO.md",
+    "Information Gathering (Web)/Active Information Gathering/2_Active_Subdomain_Enumeration.md",
+    "NMAP/Bypass Security Mesures/1_Firewall_and_IDS_IPS_Evasion_INFO.md",
+    "Footprinting/Infrastructure_Based_Enumeration/1_Domain_Information_INFO.md",
+    "Attacking Common Services/Services/SMTP/1_Attacking_SMTP_INFO.md"
   ]
 }

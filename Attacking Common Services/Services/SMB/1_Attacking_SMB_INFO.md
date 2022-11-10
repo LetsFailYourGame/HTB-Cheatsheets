@@ -95,6 +95,13 @@ smbmap -H 10.129.14.128 --upload test.txt "notes\test.txt"
 [+] Upload complete.
 ```
 
+```sh
+# Download entire folder
+smb: \> recurse
+smb: \> prompt
+mget <folder>
+```
+
 #### Remote Procedure Call (RPC)
 * RPC (`Remote procedure call`)
 * We can use the `rpcclient` tool with a null session to enumerate a workstation or Domain Controller
