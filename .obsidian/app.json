@@ -22,7 +22,20 @@
     "PSExec",
     "admin$",
     "SQLCMDMAXVARTYPEWIDTH",
-    "sqsh"
+    "sqsh",
+    "WinRM",
+    "Hashcat",
+    "hklm",
+    "Winlogon",
+    "LSASS",
+    "DPAPI",
+    "WDIGEST",
+    "WDIGEST",
+    "- `Windows Server 2012`\n* LSASS",
+    "Mimikatz",
+    "Pypykatz",
+    "Masterkey",
+    "dit"
   ],
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true

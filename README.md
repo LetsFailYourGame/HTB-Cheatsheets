@@ -35,4 +35,3 @@
 | `ftp <ip>`                                               | Interact with ftp service |
 | `xfreerdp /v:10.10.10.132 /d:<dir> /u:<user> /p:<pass> ` | Connect via RDP           | 
 
-

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0580d2908d9939",
+        "id": "768411a3c8f70e0c",
         "type": "tabs",
         "children": [
           {
-            "id": "2dc0954e92b2b9eb",
+            "id": "a2366bc8b9ed8f30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
+                "file": "Password Attacks/Windows Local Password Attacks/3_Attacking_Active_dir_and_NTDS.dit_INFO.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe489263b4b226cd",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
+                "file": "Password Attacks/Windows Local Password Attacks/3_Attacking_Active_dir_and_NTDS.dit_INFO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
+                "file": "Password Attacks/Windows Local Password Attacks/3_Attacking_Active_dir_and_NTDS.dit_INFO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md"
+                "file": "Password Attacks/Windows Local Password Attacks/3_Attacking_Active_dir_and_NTDS.dit_INFO.md"
               }
             }
           },
@@ -145,17 +146,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "104cab7630c7de91",
+  "active": "a2366bc8b9ed8f30",
   "lastOpenFiles": [
-    "Attacking Common Services/Services/SMB/1_Attacking_SMB_INFO.md",
-    "SQL/Exploitation/1_Database_Enumeration_INFO.md",
-    "Attacking Common Services/Services/SQL/1_Attacking_SQL_Databases_INFO.md",
+    "Password Attacks/Windows Local Password Attacks/4_Credential_Hunting_in_Windows_INFO.md",
+    "Password Attacks/Windows Local Password Attacks/1_Attacking_SAM_INFO.md",
+    "Password Attacks/Windows Local Password Attacks/2_Attacking_LSASS.md",
+    "Password Attacks/Windows Local Password Attacks/3_Attacking_Active_dir_and_NTDS.dit_INFO.md",
+    "Attacking Common Services/Services/FTP/2_Latest_FTP_Vulnearabilites_INFO.md",
+    "FFUF/FFUF_CLI.md",
+    "FFUF/FFUF_INFO.md",
     "Attacking Common Services/Services/FTP/1_Attacking_FTP_INFO.md",
-    "Attacking Common Services/Services/RDP/1_Attacking_RDP_INFO.md",
-    "Attacking Common Services/Services/DNS/1_Attacking_DNS_INFO.md",
-    "Information Gathering (Web)/Active Information Gathering/2_Active_Subdomain_Enumeration.md",
-    "NMAP/Bypass Security Mesures/1_Firewall_and_IDS_IPS_Evasion_INFO.md",
-    "Footprinting/Infrastructure_Based_Enumeration/1_Domain_Information_INFO.md",
-    "Attacking Common Services/Services/SMTP/1_Attacking_SMTP_INFO.md"
+    "Footprinting/Host_Based_Enumeration/12_Windows_remote_managment_protocols_INFO.md",
+    "Password Attacks/Remote Password Attacks/3_Password_reuse_defaults_INFO.md"
   ]
 }
