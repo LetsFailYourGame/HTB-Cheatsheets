@@ -9,12 +9,9 @@
 * Attacking those services with the default or obtained credentials is called [Credential Stuffing](https://owasp.org/www-community/attacks/Credential_stuffing)
 * We can select the passwords and mutate them by our `rules` to increase the probability of hits
 * `OSINT` plays another significant role
-* 
 
 #### Credential Stuffing - Hydra Syntax
 
 ```sh
 hydra -C <user_pass.list> <protocol>://<IP>
 ```
-
-
