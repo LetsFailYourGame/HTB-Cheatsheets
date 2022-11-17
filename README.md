@@ -15,9 +15,11 @@
 | `gunzip -S .zip <file>`                                                                                   | Unzip a file                                   |
 | `sudo -l`                                                                                                 | Check missconfigured binarys                   |
 | `chmod 600`                                                                                               | Set RSA keys permissions                       |
-| `find / -user <user> (-group <group>) (-ls) 2>/dev/null` \| `grep -v '/<dir_to_hide>\|<dir2>'`                  | Grep all the contents owed by user filtered    |
+| `find / -user <user> (-group <group>) (-ls) 2>/dev/null` \| `grep -v '/<dir_to_hide>\|<dir2>'`            | Grep all the contents owed by user filtered    |
 | `searchsploit -x <path>`                                                                                  | Save searchsploit exploit                      |
-| `groups`                                                                                                  | Check the groups of a user                                               |
+| `groups`                                                                                                  | Check the groups of a user                     |
+| `scp -P 12345 user@server:/path/to/remote/file /path/to/local/file`                                       | Copy remote to local                           |
+| `scp -P 12345 /path/to/local/file user@server:/path/to/remote/file`                                       | Copy local to remote                                               |
 
 # Useful Commands (NMAP)
 | **Command**                                            | **Description**                                              |

