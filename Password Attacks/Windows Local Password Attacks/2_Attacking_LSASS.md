@@ -1,4 +1,4 @@
- * [Local Security Authority Subsystem Service](https://en.wikipedia.org/wiki/Local_Security_Authority_Subsystem_Service) (`LSASS`)
+* [Local Security Authority Subsystem Service](https://en.wikipedia.org/wiki/Local_Security_Authority_Subsystem_Service) (`LSASS`)
 * Collection of many modules and has access to all authentication processes that can be found in `%SystemRoot%\System32\Lsass.exe`
 * This service is responsible for the local system security policy, user authentication, and sending security audit logs to the `Event log`
 * It is the vault for Windows-based operating systems

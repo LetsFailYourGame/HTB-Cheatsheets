@@ -81,6 +81,11 @@ File:  /etc/mysql/conf.d/mysqldump.cnf
 File:  /etc/mysql/conf.d/mysql.cnf
 ```
 
+```sh
+for a in $(for l in $(echo ".conf .cnf .cfg");do echo -e "\nFile extension: " $l; find / -name *$l 2>/dev/null | grep -v "lib\|fonts\|share\|core";done);do cat $a | grep password;done
+```
+
+
 #### Databases
 
 ```sh
