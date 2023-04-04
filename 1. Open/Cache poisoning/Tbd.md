@@ -1,0 +1,1 @@
+https://portswigger.net/web-security/web-cache-poisoning

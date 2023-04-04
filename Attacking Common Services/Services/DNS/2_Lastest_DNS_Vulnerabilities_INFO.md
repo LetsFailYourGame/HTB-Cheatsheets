@@ -1,1 +1,0 @@
-* https://redhuntlabs.com/blog/project-resonance-wave-1.html

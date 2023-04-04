@@ -1,0 +1,1 @@
+https://portswigger.net/web-security/cors#errors-parsing-origin-headers

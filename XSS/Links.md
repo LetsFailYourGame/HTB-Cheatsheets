@@ -1,1 +1,0 @@
-* [Scriptless](https://book.hacktricks.xyz/pentesting-web/dangling-markup-html-scriptless-injection) injection
