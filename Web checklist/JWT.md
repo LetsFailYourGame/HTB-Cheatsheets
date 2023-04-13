@@ -30,5 +30,9 @@
 	* `cty`
 	* `x5c`
 * Check for key algorithm confusion
+	1.  [Obtain the server's public key](https://portswigger.net/web-security/jwt/algorithm-confusion#step-1-obtain-the-server-s-public-key)
+	2.  [Convert the public key to a suitable format](https://portswigger.net/web-security/jwt/algorithm-confusion#step-2-convert-the-public-key-to-a-suitable-format)
+	3.  [Create a malicious JWT](https://portswigger.net/web-security/jwt/algorithm-confusion#step-3-modify-your-jwt) with a modified payload and the `alg` header set to `HS256`.
+	4.  [Sign the token with HS256](https://portswigger.net/web-security/jwt/algorithm-confusion#step-4-sign-the-jwt-using-the-public-key), using the public key as the secret.
 * Check for deriving public keys from existing tokens 
 	* `docker run --rm -it portswigger/sig2n <token1> <token2>`

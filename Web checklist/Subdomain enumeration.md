@@ -34,52 +34,17 @@ for word in wordlist:
 
 * Run altdns
 ```sh
-$ python altdns.py -i input_domains.txt -o ./output/path -w wordlist
+$ altdns -i subdomain.mass.strip -o subdomain.altdns -w /usr/share/seclists/Discovery/DNS/altdns.txt 
 ```
 
 * Use all subdomains in massdns
-```python
-#python3
-
-import json
-import subprocess
-
-RESOLVERS_PATH = '/path/to/resolvers.txt'
-
-def _exec_and_readlines(cmd, domains):
-
-    domains_str = bytes('\n'.join(domains), 'ascii')
-    proc = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, stdin=subprocess.PIPE)
-    stdout, stderr = proc.communicate(input=domains_str)
-
-    return [j.decode('utf-8').strip() for j in stdout.splitlines() if j != b'\n']
-
-def get_massdns(domains):
-    massdns_cmd = [
-        'massdns',
-        '-s', '15000',
-        '-t', 'A',
-        '-o', 'J',
-        '-r', RESOLVERS_PATH,
-        '--flush'
-    ]
-
-    processed = []
-
-    for line in _exec_and_readlines(massdns_cmd, domains):
-        if not line:
-            continue
-
-        processed.append(json.loads(line.strip()))
-
-    return processed
-
-print(get_massdns(['example.com', 'sub.example.com']))
+```sh
+$ massdns -s 15000 -t A -o S -r /usr/share/seclists/Discovery/DNS/resolver.txt --flush subdomain.list >> subdomain.mass
 ```
 
 * Run github-subdomains (if nessecarry)
 ```sh
-$github-subdomains -d example.com -t tokens.txt -o output.txt
+$ github-subdomains -d example.com -t tokens.txt -o output.txt
 ```
 
 * Run ctfr
@@ -87,7 +52,13 @@ $github-subdomains -d example.com -t tokens.txt -o output.txt
 $ python3 ctfr.py -d domain.com
 ```
 
-* Use Aquatone to get a flyover of all pages
+* Use `httpx` to get alive subdomains
+
+```sh
+$ subfinder -d hackerone.com -silent| httpx -title -tech-detect -status-code
+```
+
+* Use `Aquatone` to get a flyover of all pages
 
 
 

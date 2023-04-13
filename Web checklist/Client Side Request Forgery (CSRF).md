@@ -10,6 +10,6 @@ Allows an attacker to partly circumvent the same origin policy, which is designe
 	* Cookie-based session handling
 	* The requests that perform the action do not contain any parameters whose values the attacker cannot determine or guess
 
-![](cross-site%20request%20forgery.svg)
+![](Web%20checklist/Screenshots/cross-site%20request%20forgery.svg)
 
 
